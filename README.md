@@ -11,7 +11,7 @@ Graduation data - https://data.austintexas.gov/Health-and-Community-Services/Aus
 2. Transformation process
 - The data was somewhat cleaned already when i imported it, but some columns needed to be droppe such as, the rest of the graduation below 2016.
 - set the council district as the set_index
-- 
+- removed all empyty columns and duplicates
 
 3. Database
 
